@@ -1,0 +1,25 @@
+﻿  QuickDemo.cpp
+QuickDemo.cpp(521): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+QuickDemo.cpp(541): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+QuickDemo.cpp(546): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+QuickDemo.cpp(547): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+QuickDemo.cpp(566): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+QuickDemo.cpp(567): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+QuickDemo.cpp(568): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+QuickDemo.cpp(569): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+QuickDemo.cpp(576): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+QuickDemo.cpp(843): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+QuickDemo.cpp(844): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+QuickDemo.cpp(845): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+QuickDemo.cpp(846): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+QuickDemo.cpp(853): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+QuickDemo.cpp(935): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+QuickDemo.cpp(936): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+QuickDemo.cpp(937): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  7 of 288 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  opecv4_quick_tutorial.vcxproj -> D:\code\opencv_pro\opecv4_quick_tutorial\x64\Release\opecv4_quick_tutorial.exe
+  opecv4_quick_tutorial.vcxproj -> D:\code\opencv_pro\opecv4_quick_tutorial\x64\Release\opecv4_quick_tutorial.pdb (Full PDB)
